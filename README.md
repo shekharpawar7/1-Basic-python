@@ -57,7 +57,7 @@ Welcome to Basic-Python, a collection of Python scripts covering fundamental con
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/Basic-Python.git`
+1. Clone the repository: `git clone https://github.com/shekharpawar7/Basic-Python.git`
 2. Explore the sessions to understand and practice Python fundamentals.
 
 Feel free to contribute or provide feedback. Happy coding!
